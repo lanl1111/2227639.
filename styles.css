@@ -1,0 +1,34 @@
+.header-class {
+    background-color: #f0f0f0; 
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.menu-item:hover {
+    color: blue; 
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+}
+
+.hours-table th, .hours-table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.footer-style {
+    background-color: #d3d3d3; /
+    text-align: center;
+}
+
