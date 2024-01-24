@@ -1,0 +1,23 @@
+inventory = {}
+
+def add_item(item, quantity):
+    pass
+
+def view_inventory():
+    pass
+
+def update_item(item, quantity):
+    pass
+
+def manage_inventory():
+    while True:
+        print("/Inventory Management System")
+        print("1. Add Item")
+        print("2. View Inventory")
+        print("3. Update Item Quantity")
+        print("4. Exit")
+        choice = input("Enter choice (1/2/3/4): ")
+    pass
+
+if __name__ == "__main__":
+    manage_inventory()
